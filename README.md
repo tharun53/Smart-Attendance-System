@@ -60,7 +60,7 @@ This project allows teachers to create classrooms, add students, and efficiently
 
 1. Clone the repository:
 ```bash
-https://github.com/tharun53/Attendance-System
+https://github.com/tharun53/Smart-Attendance-System
 ```
 
 
